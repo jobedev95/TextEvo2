@@ -4,6 +4,8 @@ This is an **unofficial public mirror and maintenance version** of TextEvo 2,
 a text animation tool for After Effects originally created by **Wlazinski Matthieu**  
 with help from the Motion Café community.
 
+**If the original author wants this taken down, I’ll happily cooperate.**
+
 **Original project page:** https://textevo.github.io/  
 
 Framework: DuAEF (© Nicolas Dufresne / Duduf), licensed under the GNU GPL v3.0.
